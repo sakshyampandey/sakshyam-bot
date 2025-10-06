@@ -19,7 +19,7 @@ def get_time():
 
 st.set_page_config(page_title="sakshyam Bot", page_icon="🤖", layout="centered")
 st.title("🤖 sakshyam Bot - Your Friendly Male Chat Assistant")
-st.markdown("Talk with Ravi! Type your message below 👇")
+st.markdown("Talk with sakshyam! Type your message below 👇")
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
