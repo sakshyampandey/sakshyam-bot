@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 from datetime import datetime
-st.markdown("<style>body{background-color:#f4f4f4;}</style>", unsafe_allow_html=True)
+st.markdown("<style>body{background-color:##FF0000;}</style>", unsafe_allow_html=True)
 
 greetings = ["hello", "hi", "hey", "namaste", "good morning", "good evening"]
 
